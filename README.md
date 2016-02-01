@@ -1,0 +1,82 @@
+# Awesome Nifi
+
+## Learning NiFi
+
+* [xmlking/nifi-examples](https://github.com/xmlking/nifi-examples) - Apache NiFi example flows
+* [seanorama/masterclass](https://github.com/seanorama/masterclass) - Materials for various Hadoop & Nifi related workshops
+* [aperepel/nifi-workshop](https://github.com/aperepel/nifi-workshop) - A complete custom processor project, for your reference
+* [pcgrenier/nifi-examples](https://github.com/pcgrenier/nifi-examples) - Apache Nifi Examples by http://www.nifi.rocks
+* [bbende/nifi-example-bundles](https://github.com/bbende/nifi-example-bundles) - Example processor bundles for Apache NiFi
+* [abajwa-hw/nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor) - Sample custom Nifi processor to process tcpdump
+
+## Blogs, Blog Posts & Presentations
+
+* [nifi.rocks](http://www.nifi.rocks)
+* [Monitoring An S3 Bucket in Apache NiFi](https://adamlamar.github.io/2016-01-30-monitoring-an-s3-bucket-in-apache-nifi/)
+* [IoT streaming with MQTT and Apache NiFi](https://richardstechnotes.wordpress.com/2015/12/26/iot-streaming-with-mqtt-and-apache-nifi/)
+* [Building Data Pipelines for Solr with Apache NiFi](http://www.slideshare.net/BryanBende/building-data-pipelines-for-solr-with-apache-nifi)
+
+## Templates
+
+* [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
+* [bikash/nifiIoT](https://github.com/bikash/nifiIoT) - Data Tracking using Apache NiFi in IoT, IoE
+
+## Processors
+
+* [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
+* [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
+* [fsauer65/NiFi-Extensions](https://github.com/fsauer65/NiFi-Extensions) - This repository contains the source for a json-json transformation processor for apache NiFi
+* [qiansl127/nifi-spark-bundle](https://github.com/qiansl127/nifi-spark-bundle) - Customized Spark processor on NiFi
+* [richards-tech/RTNiFiStreamProcessors](https://github.com/richards-tech/RTNiFiStreamProcessors) - IoT MQTT sensor stream capture for Apache NiFi
+* [MDL/nifi-rabbitmq-bundle](https://github.com/MDL/nifi-rabbitmq-bundle) - NiFi Rabbit MQ bundle
+* [xmlking/nifi-websocket](https://github.com/xmlking/nifi-websocket) - Apache NiFi WebSocket Listener
+* [ryanleary/nifi-redis](https://github.com/ryanleary/nifi-redis) - NiFi Processors for pulling from Redis
+* [jdye64/nifi-gpiorest](https://github.com/jdye64/nifi-gpiorest) - NiFi processor example for controlling REST based GPIO device like a Raspberry PI
+* [aperepel/nifi-mqtt-bundle](https://github.com/aperepel/nifi-mqtt-bundle) - A generic support for NiFi interfacing with MQTT brokers
+* [jfrazee/nifi-kinesis](https://github.com/jfrazee/nifi-kinesis) - Kinesis processor for Apache NiFi
+* [joaohf/nifi-radius](https://github.com/joaohf/nifi-radius) - Apache NiFi process to Radius logs
+* [jdye64/nifi-openalpr](https://github.com/jdye64/nifi-openalpr) - NiFi integration for OpenALPR
+* [qntfy/nifi-redis](https://github.com/qntfy/nifi-redis) - NiFi Processors for handling data in Redis
+* [jahhulbert-ccri/geomesa-nifi](https://github.com/jahhulbert-ccri/geomesa-nifi) - NiFi GeoMesa ingest processor
+* [markap14/nifi-nosql-bundle](https://github.com/markap14/nifi-nosql-bundle) - NiFi NoSQL processors (MongoDB, Accumulo)
+* [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
+* [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
+
+## Deployment
+
+### Administrative Services
+
+* [abajwa-hw/ambari-nifi-service](https://github.com/abajwa-hw/ambari-nifi-service) - Ambari service to deploy/manage NiFi on HDP
+* [prateek/nifi-parcel](https://github.com/prateek/nifi-parcel) - Apache NiFi service for Cloudera Manager
+
+### Configuration Management
+
+* [data-wranglers/nifi](https://github.com/data-wranglers/nifi) - Chef cookbook for Nifi install
+* [45fifteen/charm-nifi](https://github.com/45fifteen/charm-nifi) - juju charm for nifi
+
+### Packages
+
+* [thmaung/nifi-builder](https://github.com/thmaung/nifi-builder) - Builds Apache NiFi RPM using rake and mock
+
+### Dockerfiles
+
+* [apiri/dockerfile-apache-nifi](https://github.com/apiri/dockerfile-apache-nifi)
+* [trkurc/docker-nifi](https://github.com/trkurc/docker-nifi)
+* [jdye64/docker-nifi](https://github.com/jdye64/docker-nifi)
+* [dataramar/nifi](https://github.com/dataramar/nifi)
+* [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
+* [randerzander/docker-nifi](https://github.com/randerzander/docker-nifi)
+
+### Vagrantfiles
+
+* [minyk/nifi-sandbox](https://github.com/minyk/nifi-sandbox)
+
+## Misc
+
+* [mattyb149/nifi-client](https://github.com/mattyb149/nifi-client) - A NiFi client library for JVM languages
+* [sponiro/gradle-nar-plugin](https://github.com/sponiro/gradle-nar-plugin) - A gradle plugin to create nar files for Apache nifi
+* [SebastianCarroll/nifi-api](https://github.com/SebastianCarroll/nifi-api) - A ruby wrapper for the nifi rest api
+
+## License
+
+Copyright (c) 2016 Joey Frazee. awesome-nifi is licensed under the [Apache License 2.0](LICENSE).
