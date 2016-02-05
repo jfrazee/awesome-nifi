@@ -11,10 +11,14 @@
 
 ## Blogs, Blog Posts & Presentations
 
+* [Apache NiFi Blog](https://blogs.apache.org/nifi/)
 * [nifi.rocks](http://www.nifi.rocks)
+* [Richard's Tech Notes](https://richardstechnotes.wordpress.com/category/apache-nifi/)
 * [Monitoring An S3 Bucket in Apache NiFi](https://adamlamar.github.io/2016-01-30-monitoring-an-s3-bucket-in-apache-nifi/)
 * [IoT streaming with MQTT and Apache NiFi](https://richardstechnotes.wordpress.com/2015/12/26/iot-streaming-with-mqtt-and-apache-nifi/)
 * [Building Data Pipelines for Solr with Apache NiFi](http://www.slideshare.net/BryanBende/building-data-pipelines-for-solr-with-apache-nifi)
+* [Using Apache Nifi to Stream Live Twitter Feeds to Hadoop](http://nedsblog.com/2015/09/02/using-apache-nifi-to-stream-live-twitter-feeds-to-hadoop/)
+* [Creating a Limited Failure Loop in NiFi](https://kisstechdocs.wordpress.com/2015/01/15/creating-a-limited-failure-loop-in-nifi/)
 
 ## Templates
 
@@ -66,6 +70,7 @@
 * [dataramar/nifi](https://github.com/dataramar/nifi)
 * [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
 * [randerzander/docker-nifi](https://github.com/randerzander/docker-nifi)
+* [aperepel/docker-nifi](https://github.com/aperepel/docker-nifi)
 
 ### Vagrantfiles
 
