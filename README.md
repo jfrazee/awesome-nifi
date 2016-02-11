@@ -20,6 +20,9 @@
 * [Using Apache Nifi to Stream Live Twitter Feeds to Hadoop](http://nedsblog.com/2015/09/02/using-apache-nifi-to-stream-live-twitter-feeds-to-hadoop/)
 * [Creating a Limited Failure Loop in NiFi](https://kisstechdocs.wordpress.com/2015/01/15/creating-a-limited-failure-loop-in-nifi/)
 * [Update NiFi Flow On-the-fly via API](https://community.hortonworks.com/articles/3160/update-nifi-flow-on-the-fly-via-api.html)
+* [ExecuteScript Processor Hello, World!](http://funnifi.blogspot.com/2016/02/executescript-processor-hello-world.html)
+* [Replacing Flow File Content with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-processor-replacing-flow.html)
+* [Using Modules with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-using-modules.html)
 
 ## Templates
 
