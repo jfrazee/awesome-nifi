@@ -35,7 +35,7 @@
 * [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
 * [bikash/nifiIoT](https://github.com/bikash/nifiIoT) - Data Tracking using Apache NiFi in IoT, IoE
 
-## Processors
+## Processors & Bundles
 
 * [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
 * [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
@@ -56,6 +56,7 @@
 * [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
 * [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
 * [helicopterman22/nifi\_amqp_processors](https://github.com/helicopterman22/nifi_amqp_processors) - A set of processors for sending and retrieving messages from an AMQP broker
+* [bbukacek/nifi-hadoop-libraries-bundle](https://github.com/bbukacek/nifi-hadoop-libraries-bundle) - NiFi Hadoop Library for MapR
 
 ## Deployment
 
