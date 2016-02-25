@@ -24,6 +24,12 @@
 * [Replacing Flow File Content with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-processor-replacing-flow.html)
 * [Using Modules with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-using-modules.html)
 
+## Videos
+
+* [OSCON 2015 : Beyond messaging - Enterprise Dataflow with Apache NiFi](https://www.youtube.com/watch?v=sQCgtCoZyFQ)
+* [Hortonworks DataFlow powered by Apache NiFi](https://www.youtube.com/watch?v=fO-xOrWBZJU)
+* [How to navigate and build a dataflow in Apache Nifi](https://www.youtube.com/watch?v=FgTGAWLC170)
+
 ## Templates
 
 * [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
