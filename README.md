@@ -61,7 +61,11 @@
 
 ## Deployment
 
-### Administrative Services
+### Data Flow Deployment
+
+* [aperepel/nifi-api-deploy](https://github.com/aperepel/nifi-api-deploy) - Demonstrates NiFi template deployment and configuration via a REST API
+
+### Administration
 
 * [abajwa-hw/ambari-nifi-service](https://github.com/abajwa-hw/ambari-nifi-service) - Ambari service to deploy/manage NiFi on HDP
 * [prateek/nifi-parcel](https://github.com/prateek/nifi-parcel) - Apache NiFi service for Cloudera Manager
