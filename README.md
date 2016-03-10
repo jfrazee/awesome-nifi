@@ -1,5 +1,22 @@
 # Awesome Nifi
 
+## Table of Contents
+
+- [Learning NiFi](#learning-nifi)
+- [Blogs and Presentations](#blogs-and-presentations)
+- [Videos](#videos)
+- [Templates](#templates)
+- [Processors and Bundles](#processors-and-bundles)
+- [Deployment](#deployment)
+    - [Data Flow Deployment](#data-flow-deployment)
+    - [Administration](#administration)
+    - [Configuration Management](#configuration-management)
+    - [Packages](#packages)
+    - [Dockerfiles](#dockerfiles)
+    - [Vagrantfiles](#vagrantfiles)
+- [Misc](#misc)
+- [License](#license)
+
 ## Learning NiFi
 
 * [xmlking/nifi-examples](https://github.com/xmlking/nifi-examples) - Apache NiFi example flows
@@ -9,7 +26,7 @@
 * [bbende/nifi-example-bundles](https://github.com/bbende/nifi-example-bundles) - Example processor bundles for Apache NiFi
 * [abajwa-hw/nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor) - Sample custom Nifi processor to process tcpdump
 
-## Blogs, Blog Posts & Presentations
+## Blogs and Presentations
 
 * [Apache NiFi Blog](https://blogs.apache.org/nifi/)
 * [nifi.rocks](http://www.nifi.rocks)
@@ -35,7 +52,7 @@
 * [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
 * [bikash/nifiIoT](https://github.com/bikash/nifiIoT) - Data Tracking using Apache NiFi in IoT, IoE
 
-## Processors & Bundles
+## Processors and Bundles
 
 * [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
 * [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
