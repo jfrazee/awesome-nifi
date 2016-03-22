@@ -40,6 +40,7 @@
 * [ExecuteScript Processor Hello, World!](http://funnifi.blogspot.com/2016/02/executescript-processor-hello-world.html)
 * [Replacing Flow File Content with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-processor-replacing-flow.html)
 * [Using Modules with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-using-modules.html)
+* [3 Considerations for Apache NiFi in Financial Services](https://blog.c24tech.com/data-geek/3-considerations-for-apache-nifi-in-financial-services)
 
 ## Videos
 
