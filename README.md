@@ -116,6 +116,7 @@
 * [mattyb149/nifi-client](https://github.com/mattyb149/nifi-client) - A NiFi client library for JVM languages
 * [sponiro/gradle-nar-plugin](https://github.com/sponiro/gradle-nar-plugin) - A gradle plugin to create nar files for Apache nifi
 * [SebastianCarroll/nifi-api](https://github.com/SebastianCarroll/nifi-api) - A ruby wrapper for the nifi rest api
+* [jfrazee/nifi-processor-bundle-scala.g8](https://github.com/jfrazee/nifi-processor-bundle-scala.g8) - A giter8 template for generating a new Scala NiFi processor bundle
 
 ## License
 
