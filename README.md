@@ -54,6 +54,7 @@
 * [3 Considerations for Apache NiFi in Financial Services](https://blog.c24tech.com/data-geek/3-considerations-for-apache-nifi-in-financial-services)
 * [Custom Processors for Apache NiFi](http://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi)
 * [Collecting Logs with Apache NiFi](http://bryanbende.com/development/2015/05/17/collecting-logs-with-apache-nifi)
+* [Best practices for setting up a high performance NiFi installation](https://community.hortonworks.com/content/kbentry/7882/hdfnifi-best-practices-for-setting-up-a-high-perfo.html)
 
 ### Slides
 
