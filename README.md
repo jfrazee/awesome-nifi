@@ -4,6 +4,10 @@
 
 - [Learning NiFi](#learning-nifi)
 - [Blogs and Presentations](#blogs-and-presentations)
+    - [Blogs](#blogs)
+    - [Specific Topics](#specific-topics)
+    - [Slides](#slides)
+    - [Videos](#videos)
 - [Videos](#videos)
 - [Templates](#templates)
 - [Processors and Bundles](#processors-and-bundles)
