@@ -24,7 +24,8 @@
 ## Learning NiFi
 
 * [xmlking/nifi-examples](https://github.com/xmlking/nifi-examples) - Apache NiFi example flows
-* [seanorama/masterclass](https://github.com/seanorama/masterclass) - Materials for various Hadoop & Nifi related workshops
+* [simonellistonball/masterclass-hdf](https://github.com/simonellistonball/masterclass-hdf) - Various NiFi labs and class
+* [seanorama/masterclass](https://github.com/seanorama/masterclass) - Platform setup for nifi masterclass and other Hadoop workshops
 * [aperepel/nifi-workshop](https://github.com/aperepel/nifi-workshop) - A complete custom processor project, for your reference
 * [pcgrenier/nifi-examples](https://github.com/pcgrenier/nifi-examples) - Apache Nifi Examples by http://www.nifi.rocks
 * [bbende/nifi-example-bundles](https://github.com/bbende/nifi-example-bundles) - Example processor bundles for Apache NiFi
