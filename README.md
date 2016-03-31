@@ -28,9 +28,15 @@
 
 ## Blogs and Presentations
 
+### Blogs
+
 * [Apache NiFi Blog](https://blogs.apache.org/nifi/)
 * [nifi.rocks](http://www.nifi.rocks)
 * [Richard's Tech Notes](https://richardstechnotes.wordpress.com/category/apache-nifi/)
+* [Fun with Apache NiFi](http://funnifi.blogspot.com)
+
+### Specific Topics
+
 * [Monitoring An S3 Bucket in Apache NiFi](https://adamlamar.github.io/2016-01-30-monitoring-an-s3-bucket-in-apache-nifi/)
 * [IoT streaming with MQTT and Apache NiFi](https://richardstechnotes.wordpress.com/2015/12/26/iot-streaming-with-mqtt-and-apache-nifi/)
 * [Building Data Pipelines for Solr with Apache NiFi](http://www.slideshare.net/BryanBende/building-data-pipelines-for-solr-with-apache-nifi)
@@ -42,7 +48,7 @@
 * [Using Modules with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-using-modules.html)
 * [3 Considerations for Apache NiFi in Financial Services](https://blog.c24tech.com/data-geek/3-considerations-for-apache-nifi-in-financial-services)
 
-## Videos
+### Videos
 
 * [OSCON 2015 : Beyond messaging - Enterprise Dataflow with Apache NiFi](https://www.youtube.com/watch?v=sQCgtCoZyFQ)
 * [Hortonworks DataFlow powered by Apache NiFi](https://www.youtube.com/watch?v=fO-xOrWBZJU)
