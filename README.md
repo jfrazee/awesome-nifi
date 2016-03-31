@@ -25,6 +25,7 @@
 * [pcgrenier/nifi-examples](https://github.com/pcgrenier/nifi-examples) - Apache Nifi Examples by http://www.nifi.rocks
 * [bbende/nifi-example-bundles](https://github.com/bbende/nifi-example-bundles) - Example processor bundles for Apache NiFi
 * [abajwa-hw/nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor) - Sample custom Nifi processor to process tcpdump
+* [bbende/nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples) - Collection of examples integrating NiFi with stream process frameworks
 
 ## Blogs and Presentations
 
@@ -47,6 +48,13 @@
 * [Replacing Flow File Content with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-processor-replacing-flow.html)
 * [Using Modules with the ExecuteScript Processor](http://funnifi.blogspot.com/2016/02/executescript-using-modules.html)
 * [3 Considerations for Apache NiFi in Financial Services](https://blog.c24tech.com/data-geek/3-considerations-for-apache-nifi-in-financial-services)
+* [Custom Processors for Apache NiFi](http://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi)
+* [Collecting Logs with Apache NiFi](http://bryanbende.com/development/2015/05/17/collecting-logs-with-apache-nifi)
+
+### Slides
+
+* [Data Distribution Patterns with Apache NiFi](http://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
+* [Integrating NiFi and Flink](http://www.slideshare.net/BryanBende/integrating-nifi-and-flink)
 
 ### Videos
 
