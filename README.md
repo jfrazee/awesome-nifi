@@ -120,9 +120,6 @@
 ### Dockerfiles
 
 * [apiri/dockerfile-apache-nifi](https://github.com/apiri/dockerfile-apache-nifi)
-* [trkurc/docker-nifi](https://github.com/trkurc/docker-nifi)
-* [jdye64/docker-nifi](https://github.com/jdye64/docker-nifi)
-* [dataramar/nifi](https://github.com/dataramar/nifi)
 * [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
 * [randerzander/docker-nifi](https://github.com/randerzander/docker-nifi)
 * [aperepel/docker-nifi](https://github.com/aperepel/docker-nifi)
