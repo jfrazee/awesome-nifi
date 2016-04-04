@@ -32,6 +32,7 @@
 * [bbende/nifi-example-bundles](https://github.com/bbende/nifi-example-bundles) - Example processor bundles for Apache NiFi
 * [abajwa-hw/nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor) - Sample custom Nifi processor to process tcpdump
 * [bbende/nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples) - Collection of examples integrating NiFi with stream process frameworks
+* [DhruvKumar/stocks-dashboard-lab](https://github.com/DhruvKumar/stocks-dashboard-lab) - This lab teaches you how to create a realtime dashboard of stock prices
 
 ## Blogs and Presentations
 
