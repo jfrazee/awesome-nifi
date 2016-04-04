@@ -8,6 +8,7 @@
     - [Specific Topics](#specific-topics)
     - [Slides](#slides)
     - [Videos](#videos)
+    - [Mailing List Best Of](#mailing-list-best-of)
 - [Videos](#videos)
 - [Templates](#templates)
 - [Processors and Bundles](#processors-and-bundles)
@@ -66,6 +67,10 @@
 * [OSCON 2015 : Beyond messaging - Enterprise Dataflow with Apache NiFi](https://www.youtube.com/watch?v=sQCgtCoZyFQ)
 * [Hortonworks DataFlow powered by Apache NiFi](https://www.youtube.com/watch?v=fO-xOrWBZJU)
 * [How to navigate and build a dataflow in Apache Nifi](https://www.youtube.com/watch?v=FgTGAWLC170)
+
+### Mailing List Best Of
+
+* [Re: Persistence of intermediary data in NiFi ?](http://mail-archives.apache.org/mod_mbox/nifi-users/201603.mbox/%3cCALJK9a6t5+B6S0MCCyOOs7hds_4dfnwj-6PjxFR6kXkdp1D3fg@mail.gmail.com%3e)
 
 ## Templates
 
