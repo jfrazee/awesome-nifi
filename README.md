@@ -69,6 +69,7 @@
 * [OSCON 2015 : Beyond messaging - Enterprise Dataflow with Apache NiFi](https://www.youtube.com/watch?v=sQCgtCoZyFQ)
 * [Hortonworks DataFlow powered by Apache NiFi](https://www.youtube.com/watch?v=fO-xOrWBZJU)
 * [How to navigate and build a dataflow in Apache Nifi](https://www.youtube.com/watch?v=FgTGAWLC170)
+* [IoT-Processor for #ApacheNiFi in action. Visualization of Tweets about presidential candidates. #AWSIoT #RaspberryPi](https://twitter.com/KayLerch/status/721455415456882689)
 
 ### Mailing List Best Of
 
