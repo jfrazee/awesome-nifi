@@ -58,6 +58,7 @@
 * [Custom Processors for Apache NiFi](http://bryanbende.com/development/2015/02/04/custom-processors-for-apache-nifi)
 * [Collecting Logs with Apache NiFi](http://bryanbende.com/development/2015/05/17/collecting-logs-with-apache-nifi)
 * [Best practices for setting up a high performance NiFi installation](https://community.hortonworks.com/content/kbentry/7882/hdfnifi-best-practices-for-setting-up-a-high-perfo.html)
+* [Using Apache NiFi to read children's books](https://www.linkedin.com/pulse/nifi-ocr-using-apache-read-childrens-books-jeremy-dyer)
 * [What is Apache NiFi?](http://www.ssglimited.com/what-is-apache-nifi/)
 
 ### Slides
@@ -108,6 +109,7 @@
 * [acesir/nifi-ConvertJSONtoCSV-bundle](https://github.com/acesir/nifi-ConvertJSONtoCSV-bundle) - Convert multi nested JSON files into denormalized, flattened out version of the CSV
 * [acesir/nifi-ParseCSV-bundle](https://github.com/acesir/nifi-ParseCSV-bundle) - CSV parsing with masking, encryption and tokenization
 * [withersdb/ALTER-nifi-putgeowave](https://github.com/withersdb/ALTER-nifi-putgeowave) - A NiFi processor that writes data to GeoWave
+* [jdye64/nifi-addons](https://github.com/jdye64/nifi-addons) - Additional convenience processors not found in core Apache NiFi (OpenCV, Salesforce, Sphinx, Tesseract)
 
 ## Deployment
 
@@ -146,6 +148,7 @@
 * [sponiro/gradle-nar-plugin](https://github.com/sponiro/gradle-nar-plugin) - A gradle plugin to create nar files for Apache nifi
 * [SebastianCarroll/nifi-api](https://github.com/SebastianCarroll/nifi-api) - A ruby wrapper for the nifi rest api
 * [jfrazee/nifi-processor-bundle-scala.g8](https://github.com/jfrazee/nifi-processor-bundle-scala.g8) - A giter8 template for generating a new Scala NiFi processor bundle
+* [jdye64/go-nifi](https://github.com/jdye64/go-nifi) - Golang implementation of NiFi Site-to-Site protocol
 
 ## License
 
