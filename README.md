@@ -33,6 +33,7 @@
 * [abajwa-hw/nifi-network-processor](https://github.com/abajwa-hw/nifi-network-processor) - Sample custom Nifi processor to process tcpdump
 * [bbende/nifi-streaming-examples](https://github.com/bbende/nifi-streaming-examples) - Collection of examples integrating NiFi with stream process frameworks
 * [DhruvKumar/stocks-dashboard-lab](https://github.com/DhruvKumar/stocks-dashboard-lab) - This lab teaches you how to create a realtime dashboard of stock prices
+* [Getting Started With Apache NiFi and Hortonworks HDF](https://dzone.com/articles/getting-started-with-apache-nifi-and-hdf)
 
 ## Blogs and Presentations
 
