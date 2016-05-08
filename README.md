@@ -112,6 +112,8 @@
 * [withersdb/ALTER-nifi-putgeowave](https://github.com/withersdb/ALTER-nifi-putgeowave) - A NiFi processor that writes data to GeoWave
 * [jdye64/nifi-addons](https://github.com/jdye64/nifi-addons) - Additional convenience processors not found in core Apache NiFi (OpenCV, Salesforce, Sphinx, Tesseract)
 * [apsaltis/nifi-soap](https://github.com/apsaltis/nifi-soap) - NiFi SOAP processor
+* [jfrazee/nifi-provenance-reporting-bundle](https://github.com/jfrazee/nifi-provenance-reporting-bundle) - NiFi provenance reporting tasks
+* [KayLerch/apache-nifi-voiceops-skill](https://github.com/KayLerch/apache-nifi-voiceops-skill) - An Alexa skill which can be used to voice-control an Apache NiFi dataflow
 
 ## Deployment
 
