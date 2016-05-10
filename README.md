@@ -61,6 +61,7 @@
 * [Best practices for setting up a high performance NiFi installation](https://community.hortonworks.com/content/kbentry/7882/hdfnifi-best-practices-for-setting-up-a-high-perfo.html)
 * [Using Apache NiFi to read children's books](https://www.linkedin.com/pulse/nifi-ocr-using-apache-read-childrens-books-jeremy-dyer)
 * [What is Apache NiFi?](http://www.ssglimited.com/what-is-apache-nifi/)
+* [Optimizing Performance of Apache NiFi's Network Listening Processors](http://bryanbende.com/development/2016/05/09/optimizing-performance-of-apache-nifis-network-listening-processors)
 
 ### Slides
 
