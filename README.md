@@ -124,6 +124,7 @@
 * [weaverplatform/weaver-nifi](https://github.com/weaverplatform/weaver-nifi) - Processor implementations for the Apache NiFi platform for connecting to the Weaver Platform
 * [GPUdb/gpudb-connector-nifi](https://github.com/GPUdb/gpudb-connector-nifi) - GPUdb NiFi Connector
 * [aperepel/nifi-csv-bundle](https://github.com/aperepel/nifi-csv-bundle) - CSV processors
+* [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
 
 ## Deployment
 
