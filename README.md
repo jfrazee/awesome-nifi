@@ -43,6 +43,7 @@
 * [nifi.rocks](http://www.nifi.rocks)
 * [Richard's Tech Notes](https://richardstechnotes.wordpress.com/category/apache-nifi/)
 * [Fun with Apache NiFi](http://funnifi.blogspot.com)
+* [Dataflow Developer](http://dataflowdeveloper.com)
 
 ### Specific Topics
 
