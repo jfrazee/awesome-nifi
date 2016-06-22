@@ -128,6 +128,7 @@
 * [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
 * [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
 * [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
+* [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
 
 ## Deployment
 
@@ -144,6 +145,7 @@
 
 * [data-wranglers/nifi](https://github.com/data-wranglers/nifi) - Chef cookbook for Nifi install
 * [45fifteen/charm-nifi](https://github.com/45fifteen/charm-nifi) - juju charm for nifi
+* [trevor-vaughan/pupmod-simp-nifi](https://github.com/trevor-vaughan/pupmod-simp-nifi) - Puppet Module for managing Apache NiFi
 
 ### Packages
 
