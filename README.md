@@ -129,6 +129,8 @@
 * [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
 * [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
 * [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
+* [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
+* [jskora/nifipie](https://github.com/jskora/nifipie) - Python Tools for the Apache NiFi Rest API
 
 ## Deployment
 
