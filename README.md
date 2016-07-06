@@ -131,6 +131,7 @@
 * [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
 * [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
 * [jskora/nifipie](https://github.com/jskora/nifipie) - Python Tools for the Apache NiFi Rest API
+* [simonellistonball/nifi-ml-bundle](https://github.com/simonellistonball/nifi-ml-bundle) - A bundle for basic scoring machine learning models in NiFi (PMML).
 
 ## Deployment
 
