@@ -66,6 +66,7 @@
 * [Running NiFi on Raspberry Pi. Best Practices.](https://community.hortonworks.com/articles/32605/running-nifi-on-raspberry-pi-best-practices.html)
 * [Examples integrating NiFi with stream process frameworks](https://github.com/bbende/nifi-streaming-examples)
 * [Use NiFi to Lessen the Friction of Moving Data](https://www.compose.com/articles/lessen-the-friction-of-moving-data-with-nifi/)
+* [Streaming analytics with SAS Event Stream Processing and Apache Nifi](http://blogs.sas.com/content/sascom/2016/07/11/streaming-analytics-sas-event-stream-processing-apache-nifi/)
 
 ### Slides
 
