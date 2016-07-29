@@ -65,6 +65,7 @@
 * [Optimizing Performance of Apache NiFi's Network Listening Processors](http://bryanbende.com/development/2016/05/09/optimizing-performance-of-apache-nifis-network-listening-processors)
 * [Running NiFi on Raspberry Pi. Best Practices.](https://community.hortonworks.com/articles/32605/running-nifi-on-raspberry-pi-best-practices.html)
 * [Examples integrating NiFi with stream process frameworks](https://github.com/bbende/nifi-streaming-examples)
+* [Use NiFi to Lessen the Friction of Moving Data](https://www.compose.com/articles/lessen-the-friction-of-moving-data-with-nifi/)
 
 ### Slides
 
