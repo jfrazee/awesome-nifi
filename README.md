@@ -137,6 +137,7 @@
 * [simonellistonball/nifi-audio-bundle](https://github.com/simonellistonball/nifi-audio-bundle) - Various audio related processors for NiFi
 * [pinkdevelops/nifi-googlegeocode-bundle](https://github.com/pinkdevelops/nifi-googlegeocode-bundle) - FlowFile enrichment using google geocode service
 * [jonathantelfer/nifi-neo4j](https://github.com/jonathantelfer/nifi-neo4j) - Bundle to add data into Neo4J graph databases
+* [compose-ex/nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle) - Mongo streaming and RocksDB processors
 
 ## Deployment
 
