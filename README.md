@@ -10,7 +10,7 @@
     - [Videos](#videos)
     - [Mailing List Best Of](#mailing-list-best-of)
 - [Videos](#videos)
-- [Templates](#templates)
+- [Templates](#templates-and-examples)
 - [Processors and Bundles](#processors-and-bundles)
 - [Deployment](#deployment)
     - [Data Flow Deployment](#data-flow-deployment)
@@ -86,10 +86,11 @@
 * [Re: Persistence of intermediary data in NiFi ?](http://mail-archives.apache.org/mod_mbox/nifi-users/201603.mbox/%3cCALJK9a6t5+B6S0MCCyOOs7hds_4dfnwj-6PjxFR6kXkdp1D3fg@mail.gmail.com%3e)
 * [Re: Need help understanding backpressure](http://mail-archives.apache.org/mod_mbox/nifi-users/201604.mbox/%3cBLU436-SMTP24995D5F6EDF5985AADFE23CE680@phx.gbl%3e)
 
-## Templates
+## Templates and Examples
 
 * [hortonworks-gallery/nifi-templates](https://github.com/hortonworks-gallery/nifi-templates) - A collection of templates for use with Apache NiFi
 * [bikash/nifiIoT](https://github.com/bikash/nifiIoT) - Data Tracking using Apache NiFi in IoT, IoE
+* [BatchIQ/nifi-executescript-samples](https://github.com/BatchIQ/nifi-executescript-samples) - Sample scripts for use with Apache NiFi's ExecuteScript processor
 
 ## Processors and Bundles
 
