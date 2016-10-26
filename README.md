@@ -146,6 +146,7 @@
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 * [mrcsparker/nifi-r-bundle](https://github.com/mrcsparker/nifi-r-bundle) - R Processor for NIFI
 * [pagefault3228/nifi-processor-CheckDiskUsage](https://github.com/pagefault3228/nifi-processor-CheckDiskUsage) - NiFi processor that can monitor flowfile and content repository usage and enable back pressure when limits exceeded
+* [pagefault3228/nifi-reportingtask-NagiosNRDPReporter](https://github.com/pagefault3228/nifi-reportingtask-NagiosNRDPReporter) - NiFi Reporting Task that reports NiFi metrics to Nagios via NRDP
 
 ## Deployment
 
