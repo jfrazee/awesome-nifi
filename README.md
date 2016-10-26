@@ -70,6 +70,7 @@
 * [Using the Apache Ranger Authorizer](http://bryanbende.com/development/2016/08/22/apache-nifi-1.0.0-using-the-apache-ranger-authorizer)
 * [Overview of X.509 SSL Security on NiFi](http://www.batchiq.com/nifi-overview-ssl-security.html)
 * [Configuring Apache NiFi SSL Authentication](http://www.batchiq.com/nifi-configuring-ssl-auth.html)
+* [Apache NiFi tls-toolkit multi-node standalone in Docker](https://blog.rosander.ninja/nifi/toolkit/tls/2016/09/20/tls-toolkit-standalone-multi.html)
 
 ### Slides
 
