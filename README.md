@@ -68,6 +68,8 @@
 * [Use NiFi to Lessen the Friction of Moving Data](https://www.compose.com/articles/lessen-the-friction-of-moving-data-with-nifi/)
 * [Streaming analytics with SAS Event Stream Processing and Apache Nifi](http://blogs.sas.com/content/sascom/2016/07/11/streaming-analytics-sas-event-stream-processing-apache-nifi/)
 * [Using the Apache Ranger Authorizer](http://bryanbende.com/development/2016/08/22/apache-nifi-1.0.0-using-the-apache-ranger-authorizer)
+* [Overview of X.509 SSL Security on NiFi](http://www.batchiq.com/nifi-overview-ssl-security.html)
+* [Configuring Apache NiFi SSL Authentication](http://www.batchiq.com/nifi-configuring-ssl-auth.html)
 
 ### Slides
 
