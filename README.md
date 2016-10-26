@@ -145,6 +145,7 @@
 * [BatchIQ/nifi-file-identity-provider-bundle](https://github.com/BatchIQ/nifi-file-identity-provider-bundle) - Identity Provider for Apache NiFi, allowing username/password authentication backed by a local file store
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 * [mrcsparker/nifi-r-bundle](https://github.com/mrcsparker/nifi-r-bundle) - R Processor for NIFI
+* [pagefault3228/nifi-processor-CheckDiskUsage](https://github.com/pagefault3228/nifi-processor-CheckDiskUsage) - NiFi processor that can monitor flowfile and content repository usage and enable back pressure when limits exceeded
 
 ## Deployment
 
