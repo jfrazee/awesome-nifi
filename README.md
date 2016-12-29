@@ -201,6 +201,8 @@
 * [SebastianCarroll/nifi-api](https://github.com/SebastianCarroll/nifi-api) - A ruby wrapper for the nifi rest api
 * [mattyb149/nifi-script-tester](https://github.com/mattyb149/nifi-script-tester) - A project to create a stub/mock environment for testing ExecuteScript processors
 * [bbende/apache-ranger-vagrant](https://github.com/bbende/apache-ranger-vagrant) - Deploys Apache Ranger in a Vagrant VM
+* [big-solutions/clj-nifi-bundle](https://github.com/big-solutions/clj-nifi-bundle) - A Boot template for clj-nifi projects
+* [big-solutions/clj-nifi](https://github.com/big-solutions/clj-nifi) - A Clojure library/DSL for Apache NiFi processors
 
 ## License
 
