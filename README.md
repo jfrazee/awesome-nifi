@@ -74,6 +74,7 @@
 * [Mongo to Mongo Data Moves with NiFi](https://www.compose.com/articles/mongo-to-mongo-data-moves-with-nifi)
 * [Integrating Apache NiFi and Apache Kafka](http://bryanbende.com/development/2016/09/15/apache-nifi-and-apache-kafka)
 * [Using Apache NiFi to ingest SNMP tables into Avro](http://www.michalklempa.com/2016/10/17/using-apache-nifi-to-ingest-snmp-tables-into-avro)
+* [Clojure on Apache NiFi](https://bigsolutions.io/2017/01/03/clojure-on-apache-nifi/)
 
 ### Slides
 
