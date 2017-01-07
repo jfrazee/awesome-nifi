@@ -75,6 +75,7 @@
 * [Integrating Apache NiFi and Apache Kafka](http://bryanbende.com/development/2016/09/15/apache-nifi-and-apache-kafka)
 * [Using Apache NiFi to ingest SNMP tables into Avro](http://www.michalklempa.com/2016/10/17/using-apache-nifi-to-ingest-snmp-tables-into-avro)
 * [Clojure on Apache NiFi](https://bigsolutions.io/2017/01/03/clojure-on-apache-nifi/)
+* [Flow-Based Programming for Trading Systems](https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/)
 
 ### Slides
 
