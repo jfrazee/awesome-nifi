@@ -76,7 +76,7 @@
 * [Using Apache NiFi to ingest SNMP tables into Avro](http://www.michalklempa.com/2016/10/17/using-apache-nifi-to-ingest-snmp-tables-into-avro)
 * [Clojure on Apache NiFi](https://bigsolutions.io/2017/01/03/clojure-on-apache-nifi/)
 * [Flow-Based Programming for Trading Systems](https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/)
-* 
+* [Stream data into Hive ORC on CDH 5.8.3 with Nifi](https://www.dbiq.nl/nifi-puthivestreaming-with-cdh/)
 
 ### Slides
 
