@@ -9,7 +9,6 @@
     - [Slides](#slides)
     - [Videos](#videos)
     - [Mailing List Best Of](#mailing-list-best-of)
-- [Videos](#videos)
 - [Templates](#templates-and-examples)
 - [Processors and Bundles](#processors-and-bundles)
 - [Deployment](#deployment)
