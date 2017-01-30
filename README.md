@@ -65,11 +65,17 @@
 * [Optimizing Performance of Apache NiFi's Network Listening Processors](http://bryanbende.com/development/2016/05/09/optimizing-performance-of-apache-nifis-network-listening-processors)
 * [Running NiFi on Raspberry Pi. Best Practices.](https://community.hortonworks.com/articles/32605/running-nifi-on-raspberry-pi-best-practices.html)
 * [Examples integrating NiFi with stream process frameworks](https://github.com/bbende/nifi-streaming-examples)
+* [Creating An Email Bot in Apache NiFi](https://community.hortonworks.com/content/kbentry/77621/creating-an-email-bot-in-apache-nifi.html)
+* [Routing Logs through Apache NiFi to Phoenix](https://community.hortonworks.com/content/kbentry/67309/routing-logs-through-apache-nifi-to-phoenix-hdfs-a.html)
+* [Ingesting Remote Camera Images from RPI via Apache NiFi](https://community.hortonworks.com/content/kbentry/77988/ingest-remote-camera-images-from-raspberry-pi-via.html)
 
 ### Slides
 
 * [Data Distribution Patterns with Apache NiFi](http://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
 * [Integrating NiFi and Flink](http://www.slideshare.net/BryanBende/integrating-nifi-and-flink)
+* [Drone Data Flowing Through Apache NiFi](http://www.slideshare.net/bunkertor/drone-data-flowing-through-apache-nifi)
+* [Real-Time Twitter Sentiment Analysis and Image Recognition with Apache NiFi](http://www.slideshare.net/bunkertor/realtime-twitter-sentiment-analysis-and-image-recognition-with-apache-nifi)
+* [Apache NiFi Overview](http://www.slideshare.net/bunkertor/apache-nifi-meetup-princeton-nj-2016)
 
 ### Videos
 
@@ -126,6 +132,7 @@
 * [GPUdb/gpudb-connector-nifi](https://github.com/GPUdb/gpudb-connector-nifi) - GPUdb NiFi Connector
 * [aperepel/nifi-csv-bundle](https://github.com/aperepel/nifi-csv-bundle) - CSV processors
 * [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
+* [tspannhw/linkextractorprocessor](https://github.com/tspannhw/linkextractorprocessor) - Extracts links from HTML pages
 
 ## Deployment
 
@@ -166,6 +173,8 @@
 * [SebastianCarroll/nifi-api](https://github.com/SebastianCarroll/nifi-api) - A ruby wrapper for the nifi rest api
 * [jfrazee/nifi-processor-bundle-scala.g8](https://github.com/jfrazee/nifi-processor-bundle-scala.g8) - A giter8 template for generating a new Scala NiFi processor bundle
 * [jdye64/go-nifi](https://github.com/jdye64/go-nifi) - Golang implementation of NiFi Site-to-Site protocol
+* [tspannhw/rpi-sensehat-mqtt-nifi](https://github.com/tspannhw/rpi-sensehat-mqtt-nifi) - Python Scripts for working with MQTT
+* [tspannhw/rpi-picamera-mqtt-nifi](https://github.com/tspannhw/rpi-picamera-mqtt-nifi) - Python Scripts for working with MQTT + Cameras
 
 ## License
 
