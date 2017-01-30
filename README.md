@@ -80,12 +80,18 @@
 * [Clojure on Apache NiFi](https://bigsolutions.io/2017/01/03/clojure-on-apache-nifi/)
 * [Flow-Based Programming for Trading Systems](https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/)
 * [Stream data into Hive ORC on CDH 5.8.3 with Nifi](https://www.dbiq.nl/nifi-puthivestreaming-with-cdh/)
+* [Creating An Email Bot in Apache NiFi](https://community.hortonworks.com/content/kbentry/77621/creating-an-email-bot-in-apache-nifi.html)
+* [Routing Logs through Apache NiFi to Phoenix](https://community.hortonworks.com/content/kbentry/67309/routing-logs-through-apache-nifi-to-phoenix-hdfs-a.html)
+* [Ingesting Remote Camera Images from RPI via Apache NiFi](https://community.hortonworks.com/content/kbentry/77988/ingest-remote-camera-images-from-raspberry-pi-via.html)
 
 ### Slides
 
 * [Data Distribution Patterns with Apache NiFi](http://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
 * [Integrating NiFi and Flink](http://www.slideshare.net/BryanBende/integrating-nifi-and-flink)
 * [Data ingestion and distribution with apache NiFi](http://www.slideshare.net/LevBrailovskiy/data-ingestion-and-distribution-with-apache-nifi)
+* [Drone Data Flowing Through Apache NiFi](http://www.slideshare.net/bunkertor/drone-data-flowing-through-apache-nifi)
+* [Real-Time Twitter Sentiment Analysis and Image Recognition with Apache NiFi](http://www.slideshare.net/bunkertor/realtime-twitter-sentiment-analysis-and-image-recognition-with-apache-nifi)
+* [Apache NiFi Overview](http://www.slideshare.net/bunkertor/apache-nifi-meetup-princeton-nj-2016)
 
 ### Videos
 
@@ -164,16 +170,17 @@
 * [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
 * [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
 * [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
+* [tspannhw/linkextractorprocessor](https://github.com/tspannhw/linkextractorprocessor) - Extracts links from HTML pages
 
 ## Deployment
 
 ### Webservice client API
-* [hermannpencole/nifi-swagger-client](https://github.com/hermannpencole/nifi-swagger-client) - Client swagger for nifi with OAuth2 security 
+* [hermannpencole/nifi-swagger-client](https://github.com/hermannpencole/nifi-swagger-client) - Client swagger for nifi with OAuth2 security
 
 ### Data Flow Deployment
 
 * [aperepel/nifi-api-deploy](https://github.com/aperepel/nifi-api-deploy) - Demonstrates NiFi template deployment and configuration via a REST API
-* [Glympse/terraform-provider-nifi](https://github.com/Glympse/terraform-provider-nifi) - Terraform plugin allowing to automate NiFi flow deployment and management. 
+* [Glympse/terraform-provider-nifi](https://github.com/Glympse/terraform-provider-nifi) - Terraform plugin allowing to automate NiFi flow deployment and management.
 * [hermannpencole/nifi-config](https://github.com/hermannpencole/nifi-config) - Nifi : deploy and configure Template
 
 ### Administration
@@ -215,7 +222,9 @@
 * [bbende/apache-ranger-vagrant](https://github.com/bbende/apache-ranger-vagrant) - Deploys Apache Ranger in a Vagrant VM
 * [big-solutions/clj-nifi-bundle](https://github.com/big-solutions/clj-nifi-bundle) - A Boot template for clj-nifi projects
 * [big-solutions/clj-nifi](https://github.com/big-solutions/clj-nifi) - A Clojure library/DSL for Apache NiFi processors
+* [tspannhw/rpi-sensehat-mqtt-nifi](https://github.com/tspannhw/rpi-sensehat-mqtt-nifi) - Python Scripts for working with MQTT
+* [tspannhw/rpi-picamera-mqtt-nifi](https://github.com/tspannhw/rpi-picamera-mqtt-nifi) - Python Scripts for working with MQTT + Cameras
 
 ## License
 
-Copyright (c) 2017 Joey Frazee. awesome-nifi is licensed under the [Apache License 2.0](LICENSE).
+Copyright (c) 2016-2020 Joey Frazee. awesome-nifi is licensed under the [Apache License 2.0](LICENSE).
