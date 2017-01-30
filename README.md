@@ -178,4 +178,4 @@
 
 ## License
 
-Copyright (c) 2016 Joey Frazee. awesome-nifi is licensed under the [Apache License 2.0](LICENSE).
+Copyright (c) 2016, 2017 Joey Frazee. awesome-nifi is licensed under the [Apache License 2.0](LICENSE).
