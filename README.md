@@ -82,6 +82,7 @@
 
 * [Data Distribution Patterns with Apache NiFi](http://www.slideshare.net/BryanBende/data-distribution-patterns-with-apache-nifi)
 * [Integrating NiFi and Flink](http://www.slideshare.net/BryanBende/integrating-nifi-and-flink)
+* [Data ingestion and distribution with apache NiFi](http://www.slideshare.net/LevBrailovskiy/data-ingestion-and-distribution-with-apache-nifi)
 
 ### Videos
 
