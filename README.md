@@ -166,6 +166,7 @@
 ### Data Flow Deployment
 
 * [aperepel/nifi-api-deploy](https://github.com/aperepel/nifi-api-deploy) - Demonstrates NiFi template deployment and configuration via a REST API
+* [Glympse/terraform-provider-nifi](https://github.com/Glympse/terraform-provider-nifi) - Terraform plugin allowing to automate NiFi flow deployment and management. 
 
 ### Administration
 
