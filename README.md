@@ -191,7 +191,6 @@
 
 * [apiri/dockerfile-apache-nifi](https://github.com/apiri/dockerfile-apache-nifi)
 * [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
-* [randerzander/docker-nifi](https://github.com/randerzander/docker-nifi)
 * [aperepel/docker-nifi](https://github.com/aperepel/docker-nifi)
 * [ijokarumawak/docker-compose-nifi-cluster](https://github.com/ijokarumawak/docker-compose-nifi-cluster)
 
