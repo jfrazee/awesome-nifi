@@ -39,9 +39,13 @@
 ### Blogs
 
 * [Apache NiFi Blog](https://blogs.apache.org/nifi/)
+* [Bryan Bende (Apache NiFi PMC)](https://bryanbende.com/)
+* [Fun with Apache NiFi (Apache NiFi PMC)](http://funnifi.blogspot.com)
+* [Andy LoPresto (Apache NiFi PMC)](https://alopresto.github.io/)
+* [Koji Kawamura (Apache NiFi PMC)](http://ijokarumawak.github.io/blog/)
+* [Pierre Villard (Apache NiFI PMC)](https://pierrevillard.com/)
 * [nifi.rocks](http://www.nifi.rocks)
 * [Richard's Tech Notes](https://richardstechnotes.wordpress.com/category/apache-nifi/)
-* [Fun with Apache NiFi](http://funnifi.blogspot.com)
 * [Dataflow Developer](http://dataflowdeveloper.com)
 
 ### Specific Topics
