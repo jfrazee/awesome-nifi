@@ -193,6 +193,7 @@
 
 ### Dockerfiles
 
+* (official) [apache/nifi](https://github.com/apache/nifi/blob/master/nifi-docker/dockerhub/Dockerfile)
 * [apiri/dockerfile-apache-nifi](https://github.com/apiri/dockerfile-apache-nifi)
 * [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
 * [aperepel/docker-nifi](https://github.com/aperepel/docker-nifi)
