@@ -91,17 +91,10 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 
 ## Processors and Bundles
 
-* [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
 * [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
-* [fsauer65/NiFi-Extensions](https://github.com/fsauer65/NiFi-Extensions) - This repository contains the source for a json-json transformation processor for apache NiFi
-* [qiansl127/nifi-spark-bundle](https://github.com/qiansl127/nifi-spark-bundle) - Customized Spark processor on NiFi
-* [richards-tech/RTNiFiStreamProcessors](https://github.com/richards-tech/RTNiFiStreamProcessors) - IoT MQTT sensor stream capture for Apache NiFi
 * [MDL/nifi-rabbitmq-bundle](https://github.com/MDL/nifi-rabbitmq-bundle) - NiFi Rabbit MQ bundle
-* [xmlking/nifi-websocket](https://github.com/xmlking/nifi-websocket) - Apache NiFi WebSocket Listener
 * [ryanleary/nifi-redis](https://github.com/ryanleary/nifi-redis) - NiFi Processors for pulling from Redis
 * [jdye64/nifi-gpiorest](https://github.com/jdye64/nifi-gpiorest) - NiFi processor example for controlling REST based GPIO device like a Raspberry PI
-* [aperepel/nifi-mqtt-bundle](https://github.com/aperepel/nifi-mqtt-bundle) - A generic support for NiFi interfacing with MQTT brokers
-* [jfrazee/nifi-kinesis](https://github.com/jfrazee/nifi-kinesis) - Kinesis processor for Apache NiFi
 * [joaohf/nifi-radius](https://github.com/joaohf/nifi-radius) - Apache NiFi process to Radius logs
 * [jdye64/nifi-openalpr](https://github.com/jdye64/nifi-openalpr) - NiFi integration for OpenALPR
 * [qntfy/nifi-redis](https://github.com/qntfy/nifi-redis) - NiFi Processors for handling data in Redis
@@ -110,7 +103,6 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
 * [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
 * [helicopterman22/nifi\_amqp_processors](https://github.com/helicopterman22/nifi_amqp_processors) - A set of processors for sending and retrieving messages from an AMQP broker
-* [bbukacek/nifi-hadoop-libraries-bundle](https://github.com/bbukacek/nifi-hadoop-libraries-bundle) - NiFi Hadoop Library for MapR
 * [apiri/nifi-delegated-authorization-bundle](https://github.com/apiri/nifi-delegated-authorization-bundle) - A sample implementation of NiFi extensions working in concert to provide a delegated authorization approach in handling data on a per event basis
 * [uwegeercken/nifi_processors](https://github.com/uwegeercken/nifi_processors) - Includes an Apache Velocity template processor
 * [acesir/nifi-ConvertJSONtoCSV-bundle](https://github.com/acesir/nifi-ConvertJSONtoCSV-bundle) - Convert multi nested JSON files into denormalized, flattened out version of the CSV
@@ -121,16 +113,12 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [jfrazee/nifi-provenance-reporting-bundle](https://github.com/jfrazee/nifi-provenance-reporting-bundle) - NiFi provenance reporting tasks
 * [KayLerch/apache-nifi-voiceops-skill](https://github.com/KayLerch/apache-nifi-voiceops-skill) - An Alexa skill which can be used to voice-control an Apache NiFi dataflow
 * [imaifactory/nifi-processors](https://github.com/imaifactory/nifi-processors) - Includes processors for converting from regex named groups and LTSV to JSON
-* [selim-namsi/NifiGroKProcessor](https://github.com/selim-namsi/NifiGroKProcessor) - Grok processor
-* [DhruvKumar/nifi-grok-processor-bundle](https://github.com/DhruvKumar/nifi-grok-processor-bundle) - NiFi processor which can parse using Grok like expressions
-* [DoxoLogic/nifi-generate-content](https://github.com/DoxoLogic/nifi-generate-content) - Apache nifi processor for creating a new FlowFile content based on property value
 * [weaverplatform/weaver-nifi](https://github.com/weaverplatform/weaver-nifi) - Processor implementations for the Apache NiFi platform for connecting to the Weaver Platform
 * [kineticadb/kinetica-connector-nifi](kineticadb/kinetica-connector-nifi) - GPUdb NiFi Connector
 * [aperepel/nifi-csv-bundle](https://github.com/aperepel/nifi-csv-bundle) - CSV processors
 * [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
 * [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
 * [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
-* [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
 * [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
 * [simonellistonball/nifi-ml-bundle](https://github.com/simonellistonball/nifi-ml-bundle) - A bundle for basic scoring machine learning models in NiFi (PMML).
 * [simonellistonball/nifi-audio-bundle](https://github.com/simonellistonball/nifi-audio-bundle) - Various audio related processors for NiFi
@@ -146,6 +134,13 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
 * [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
 * [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
+* [whiver/nifi-protobuf-processor](https://github.com/whiver/nifi-protobuf-processor) - Encode and decode data using Google Protocol Buffers
+* [hashmapinc/nifi-witsml-bundle](https://github.com/hashmapinc/nifi-witsml-bundle) - WITSML consumer processors
+* [hashmapinc/nifi-simulator-bundle](https://github.com/hashmapinc/nifi-simulator-bundle) - Time series data simulator based on [TSimulus](https://github.com/cetic/TSimulus)
+* [datamindedbe/nifi-dataminded-bundle](https://github.com/datamindedbe/nifi-dataminded-bundle) - Oracle-specialized ExecuteSQL and GenerateTableFetch
+* [laurencedaluz/nifi-satori-bundle](https://github.com/laurencedaluz/nifi-satori-bundle) - Publisher and consumer for Satori [realtime messaging service](https://www.satori.com/docs/using-satori/overview) (RTM)
+* [bcgov/nifi-atlas](https://github.com/bcgov/nifi-atlas) - A bridge to [Apache Atlas](http://atlas.apache.org) for provenance metadata created in course of using NiFi
+* [NifiDruidIntegration](https://github.com/vakshorton/NifiDruidIntegration) - Druid processors for NiFi
 
 ## Learning NiFi
 
@@ -167,6 +162,7 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [BatchIQ/nifi-executescript-samples](https://github.com/BatchIQ/nifi-executescript-samples) - Sample scripts for use with Apache NiFi's ExecuteScript processor
 * [ijokarumawak/nifi-deploy-process-group](https://github.com/ijokarumawak/nifi-deploy-process-group) - Deploy ProcessGroup into your LIVE NiFi data-flow
 * [tbilou/flickr-nifi](https://github.com/tbilou/flickr-nifi) - Using Nifi to easily fetch all photo data from Flickr
+* [jobinthompu/YARN-Long-Running-Application-Monitoring-with-NiFi](https://github.com/jobinthompu/YARN-Long-Running-Application-Monitoring-with-NiFi) - YARN app monitoring
 
 ## Processors and Bundles
 
@@ -241,12 +237,15 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 
 * [abajwa-hw/ambari-nifi-service](https://github.com/abajwa-hw/ambari-nifi-service) - Ambari service to deploy/manage NiFi on HDP
 * [prateek/nifi-parcel](https://github.com/prateek/nifi-parcel) - Apache NiFi service for Cloudera Manager
+* [nomr/nifi-csd](https://github.com/nomr/nifi-csd) - Cloudera Service Descriptor
 
 ### Configuration Management
 
 * [data-wranglers/nifi](https://github.com/data-wranglers/nifi) - Chef cookbook for Nifi install
 * [45fifteen/charm-nifi](https://github.com/45fifteen/charm-nifi) - juju charm for nifi
 * [trevor-vaughan/pupmod-simp-nifi](https://github.com/trevor-vaughan/pupmod-simp-nifi) - Puppet Module for managing Apache NiFi
+* [Asymmetrik/ansible-role-nifi](https://github.com/Asymmetrik/ansible-role-nifi) - Ansible role for NiFi
+* [af6140/puppet_nifi](https://github.com/af6140/puppet_nifi) - Nifi puppet module
 
 ### Packages
 
@@ -276,6 +275,12 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [bbende/apache-ranger-vagrant](https://github.com/bbende/apache-ranger-vagrant) - Deploys Apache Ranger in a Vagrant VM
 * [big-solutions/clj-nifi-bundle](https://github.com/big-solutions/clj-nifi-bundle) - A Boot template for clj-nifi projects
 * [big-solutions/clj-nifi](https://github.com/big-solutions/clj-nifi) - A Clojure library/DSL for Apache NiFi processors
+* [Teradata/kylo](https://github.com/Teradata/kylo) - Think Big data lake management software platform
+* [pradeepmvn/logback-nifi-appender](https://github.com/pradeepmvn/logback-nifi-appender) - Logback appender to NiFi site-to-site 
+* [msiedlarek/nifi_exporter](https://github.com/msiedlarek/nifi_exporter) - NiFi metrics exporter for [Prometheus](https://prometheus.io) monitoring system
+* [mattyb149/nifi-script-tester](https://github.com/mattyb149/nifi-script-tester) - Create stub/mock environments for testing ExecuteScript processors
+* [Chaffelson/nipyapi](https://github.com/Chaffelson/nipyapi) - Python wrapper for the NiFi REST API
+* [hermannpencole/nifi-swagger-client](https://github.com/hermannpencole/nifi-swagger-client) - Java wrapper for the NiFi REST API
 
 ## License
 
