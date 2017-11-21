@@ -91,56 +91,69 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 
 ## Processors and Bundles
 
-* [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
+* [BatchIQ/nifi-file-identity-provider-bundle](https://github.com/BatchIQ/nifi-file-identity-provider-bundle) - Identity Provider for Apache NiFi, allowing username/password authentication backed by a local file store
+* [DhruvKumar/nifi-grok-processor-bundle](https://github.com/DhruvKumar/nifi-grok-processor-bundle) - NiFi processor which can parse using Grok like expressions
+* [DoxoLogic/nifi-generate-content](https://github.com/DoxoLogic/nifi-generate-content) - Apache nifi processor for creating a new FlowFile content based on property value
+* [KayLerch/apache-nifi-voiceops-skill](https://github.com/KayLerch/apache-nifi-voiceops-skill) - An Alexa skill which can be used to voice-control an Apache NiFi dataflow
 * [MDL/nifi-rabbitmq-bundle](https://github.com/MDL/nifi-rabbitmq-bundle) - NiFi Rabbit MQ bundle
-* [ryanleary/nifi-redis](https://github.com/ryanleary/nifi-redis) - NiFi Processors for pulling from Redis
-* [jdye64/nifi-gpiorest](https://github.com/jdye64/nifi-gpiorest) - NiFi processor example for controlling REST based GPIO device like a Raspberry PI
-* [joaohf/nifi-radius](https://github.com/joaohf/nifi-radius) - Apache NiFi process to Radius logs
-* [jdye64/nifi-openalpr](https://github.com/jdye64/nifi-openalpr) - NiFi integration for OpenALPR
-* [qntfy/nifi-redis](https://github.com/qntfy/nifi-redis) - NiFi Processors for handling data in Redis
-* [jahhulbert-ccri/geomesa-nifi](https://github.com/jahhulbert-ccri/geomesa-nifi) - NiFi GeoMesa ingest processor
-* [markap14/nifi-nosql-bundle](https://github.com/markap14/nifi-nosql-bundle) - NiFi NoSQL processors (MongoDB, Accumulo)
-* [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
-* [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
-* [helicopterman22/nifi\_amqp_processors](https://github.com/helicopterman22/nifi_amqp_processors) - A set of processors for sending and retrieving messages from an AMQP broker
-* [apiri/nifi-delegated-authorization-bundle](https://github.com/apiri/nifi-delegated-authorization-bundle) - A sample implementation of NiFi extensions working in concert to provide a delegated authorization approach in handling data on a per event basis
-* [uwegeercken/nifi_processors](https://github.com/uwegeercken/nifi_processors) - Includes an Apache Velocity template processor
+* [NifiDruidIntegration](https://github.com/vakshorton/NifiDruidIntegration) - Druid processors for NiFi
+* [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
+* [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
+* [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
 * [acesir/nifi-ConvertJSONtoCSV-bundle](https://github.com/acesir/nifi-ConvertJSONtoCSV-bundle) - Convert multi nested JSON files into denormalized, flattened out version of the CSV
 * [acesir/nifi-ParseCSV-bundle](https://github.com/acesir/nifi-ParseCSV-bundle) - CSV parsing with masking, encryption and tokenization
-* [withersdb/ALTER-nifi-putgeowave](https://github.com/withersdb/ALTER-nifi-putgeowave) - A NiFi processor that writes data to GeoWave
-* [jdye64/nifi-addons](https://github.com/jdye64/nifi-addons) - Additional convenience processors not found in core Apache NiFi (OpenCV, Salesforce, Sphinx, Tesseract)
-* [apsaltis/nifi-soap](https://github.com/apsaltis/nifi-soap) - NiFi SOAP processor
-* [jfrazee/nifi-provenance-reporting-bundle](https://github.com/jfrazee/nifi-provenance-reporting-bundle) - NiFi provenance reporting tasks
-* [KayLerch/apache-nifi-voiceops-skill](https://github.com/KayLerch/apache-nifi-voiceops-skill) - An Alexa skill which can be used to voice-control an Apache NiFi dataflow
-* [imaifactory/nifi-processors](https://github.com/imaifactory/nifi-processors) - Includes processors for converting from regex named groups and LTSV to JSON
-* [weaverplatform/weaver-nifi](https://github.com/weaverplatform/weaver-nifi) - Processor implementations for the Apache NiFi platform for connecting to the Weaver Platform
-* [kineticadb/kinetica-connector-nifi](kineticadb/kinetica-connector-nifi) - GPUdb NiFi Connector
 * [aperepel/nifi-csv-bundle](https://github.com/aperepel/nifi-csv-bundle) - CSV processors
-* [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
-* [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
-* [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
-* [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
-* [simonellistonball/nifi-ml-bundle](https://github.com/simonellistonball/nifi-ml-bundle) - A bundle for basic scoring machine learning models in NiFi (PMML).
-* [simonellistonball/nifi-audio-bundle](https://github.com/simonellistonball/nifi-audio-bundle) - Various audio related processors for NiFi
-* [pinkdevelops/nifi-googlegeocode-bundle](https://github.com/pinkdevelops/nifi-googlegeocode-bundle) - FlowFile enrichment using google geocode service
-* [jonathantelfer/nifi-neo4j](https://github.com/jonathantelfer/nifi-neo4j) - Bundle to add data into Neo4J graph databases
+* [aperepel/nifi-mqtt-bundle](https://github.com/aperepel/nifi-mqtt-bundle) - A generic support for NiFi interfacing with MQTT brokers
+* [apiri/nifi-delegated-authorization-bundle](https://github.com/apiri/nifi-delegated-authorization-bundle) - A sample implementation of NiFi extensions working in concert to provide a delegated authorization approach in handling data on a per event basis
+* [apsaltis/nifi-soap](https://github.com/apsaltis/nifi-soap) - NiFi SOAP processor
+* [bbukacek/nifi-hadoop-libraries-bundle](https://github.com/bbukacek/nifi-hadoop-libraries-bundle) - NiFi Hadoop Library for MapR
+* [bcgov/nifi-atlas](https://github.com/bcgov/nifi-atlas) - A bridge to [Apache Atlas](http://atlas.apache.org) for provenance metadata created in course of using NiFi
 * [compose-ex/nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle) - Mongo streaming and RocksDB processors
-* [sysunite/sysunite-nifi](https://github.com/sysunite/sysunite-nifi) - Generic Sysunite processors
-* [BatchIQ/nifi-file-identity-provider-bundle](https://github.com/BatchIQ/nifi-file-identity-provider-bundle) - Identity Provider for Apache NiFi, allowing username/password authentication backed by a local file store
+* [datamindedbe/nifi-dataminded-bundle](https://github.com/datamindedbe/nifi-dataminded-bundle) - Oracle-specialized ExecuteSQL and GenerateTableFetch
+* [fsauer65/NiFi-Extensions](https://github.com/fsauer65/NiFi-Extensions) - This repository contains the source for a json-json transformation processor for apache NiFi
+* [hashmapinc/nifi-simulator-bundle](https://github.com/hashmapinc/nifi-simulator-bundle) - Time series data simulator based on [TSimulus](https://github.com/cetic/TSimulus)
+* [hashmapinc/nifi-witsml-bundle](https://github.com/hashmapinc/nifi-witsml-bundle) - WITSML consumer processors
+* [helicopterman22/nifi\_amqp_processors](https://github.com/helicopterman22/nifi_amqp_processors) - A set of processors for sending and retrieving messages from an AMQP broker
+* [imaifactory/nifi-processors](https://github.com/imaifactory/nifi-processors) - Includes processors for converting from regex named groups and LTSV to JSON
+* [jahhulbert-ccri/geomesa-nifi](https://github.com/jahhulbert-ccri/geomesa-nifi) - NiFi GeoMesa ingest processor
+* [jdye64/nifi-addons](https://github.com/jdye64/nifi-addons) - Additional convenience processors not found in core Apache NiFi (OpenCV, Salesforce, Sphinx, Tesseract)
+* [jdye64/nifi-gpiorest](https://github.com/jdye64/nifi-gpiorest) - NiFi processor example for controlling REST based GPIO device like a Raspberry PI
+* [jdye64/nifi-openalpr](https://github.com/jdye64/nifi-openalpr) - NiFi integration for OpenALPR
+* [jfrazee/nifi-kinesis](https://github.com/jfrazee/nifi-kinesis) - Kinesis processor for Apache NiFi
+* [jfrazee/nifi-provenance-reporting-bundle](https://github.com/jfrazee/nifi-provenance-reporting-bundle) - NiFi provenance reporting tasks
+* [joaohf/nifi-radius](https://github.com/joaohf/nifi-radius) - Apache NiFi process to Radius logs
+* [jonathantelfer/nifi-neo4j](https://github.com/jonathantelfer/nifi-neo4j) - Bundle to add data into Neo4J graph databases
+* [kineticadb/kinetica-connector-nifi](kineticadb/kinetica-connector-nifi) - GPUdb NiFi Connector
+* [laurencedaluz/nifi-satori-bundle](https://github.com/laurencedaluz/nifi-satori-bundle) - Publisher and consumer for Satori [realtime messaging service](https://www.satori.com/docs/using-satori/overview) (RTM)
+* [markap14/nifi-nosql-bundle](https://github.com/markap14/nifi-nosql-bundle) - NiFi NoSQL processors (MongoDB, Accumulo)
+* [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
+* [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
 * [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
 * [mrcsparker/nifi-r-bundle](https://github.com/mrcsparker/nifi-r-bundle) - R Processor for NIFI
+* [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
+* [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
 * [pagefault3228/nifi-processor-CheckDiskUsage](https://github.com/pagefault3228/nifi-processor-CheckDiskUsage) - NiFi processor that can monitor flowfile and content repository usage and enable back pressure when limits exceeded
 * [pagefault3228/nifi-reportingtask-NagiosNRDPReporter](https://github.com/pagefault3228/nifi-reportingtask-NagiosNRDPReporter) - NiFi Reporting Task that reports NiFi metrics to Nagios via NRDP
 * [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
-* [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
-* [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
+* [pinkdevelops/nifi-googlegeocode-bundle](https://github.com/pinkdevelops/nifi-googlegeocode-bundle) - FlowFile enrichment using google geocode service
+* [qiansl127/nifi-spark-bundle](https://github.com/qiansl127/nifi-spark-bundle)
+* [qiansl127/nifi-spark-bundle](https://github.com/qiansl127/nifi-spark-bundle) - Customized Spark processor on NiFi
+* [qntfy/nifi-redis](https://github.com/qntfy/nifi-redis) - NiFi Processors for handling data in Redis
+* [richards-tech/RTNiFiStreamProcessors](https://github.com/richards-tech/RTNiFiStreamProcessors) - IoT MQTT sensor stream capture for Apache NiFi
+* [ryanleary/nifi-redis](https://github.com/ryanleary/nifi-redis) - NiFi Processors for pulling from Redis
+* [selim-namsi/NifiGroKProcessor](https://github.com/selim-namsi/NifiGroKProcessor) - Grok processor
+* [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
+* [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
+* [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
+* [simonellistonball/nifi-audio-bundle](https://github.com/simonellistonball/nifi-audio-bundle) - Various audio related processors for NiFi
+* [simonellistonball/nifi-ml-bundle](https://github.com/simonellistonball/nifi-ml-bundle) - A bundle for basic scoring machine learning models in NiFi (PMML).
+* [sysunite/sysunite-nifi](https://github.com/sysunite/sysunite-nifi) - Generic Sysunite processors
+* [uwegeercken/nifi_processors](https://github.com/uwegeercken/nifi_processors) - Includes an Apache Velocity template processor
+* [weaverplatform/weaver-nifi](https://github.com/weaverplatform/weaver-nifi) - Processor implementations for the Apache NiFi platform for connecting to the Weaver Platform
 * [whiver/nifi-protobuf-processor](https://github.com/whiver/nifi-protobuf-processor) - Encode and decode data using Google Protocol Buffers
-* [hashmapinc/nifi-witsml-bundle](https://github.com/hashmapinc/nifi-witsml-bundle) - WITSML consumer processors
-* [hashmapinc/nifi-simulator-bundle](https://github.com/hashmapinc/nifi-simulator-bundle) - Time series data simulator based on [TSimulus](https://github.com/cetic/TSimulus)
-* [datamindedbe/nifi-dataminded-bundle](https://github.com/datamindedbe/nifi-dataminded-bundle) - Oracle-specialized ExecuteSQL and GenerateTableFetch
-* [laurencedaluz/nifi-satori-bundle](https://github.com/laurencedaluz/nifi-satori-bundle) - Publisher and consumer for Satori [realtime messaging service](https://www.satori.com/docs/using-satori/overview) (RTM)
-* [bcgov/nifi-atlas](https://github.com/bcgov/nifi-atlas) - A bridge to [Apache Atlas](http://atlas.apache.org) for provenance metadata created in course of using NiFi
-* [NifiDruidIntegration](https://github.com/vakshorton/NifiDruidIntegration) - Druid processors for NiFi
+* [withersdb/ALTER-nifi-putgeowave](https://github.com/withersdb/ALTER-nifi-putgeowave) - A NiFi processor that writes data to GeoWave
+* [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
+* [xmlking/nifi-websocket](https://github.com/xmlking/nifi-websocket) - Apache NiFi WebSocket Listener
 
 ## Learning NiFi
 
@@ -163,64 +176,6 @@ The official Apache NiFi blog is: [https://blogs.apache.org/nifi/](https://blogs
 * [ijokarumawak/nifi-deploy-process-group](https://github.com/ijokarumawak/nifi-deploy-process-group) - Deploy ProcessGroup into your LIVE NiFi data-flow
 * [tbilou/flickr-nifi](https://github.com/tbilou/flickr-nifi) - Using Nifi to easily fetch all photo data from Flickr
 * [jobinthompu/YARN-Long-Running-Application-Monitoring-with-NiFi](https://github.com/jobinthompu/YARN-Long-Running-Application-Monitoring-with-NiFi) - YARN app monitoring
-
-## Processors and Bundles
-
-* [xmlking/nifi-scripting](https://github.com/xmlking/nifi-scripting) - NiFi Dynamic Script Executors
-* [SwingDev/nifi-file-from-template-processor](https://github.com/SwingDev/nifi-file-from-template-processor) - Apache NiFi processor to create a new file from a Jinja template
-* [fsauer65/NiFi-Extensions](https://github.com/fsauer65/NiFi-Extensions) - This repository contains the source for a json-json transformation processor for apache NiFi
-* [qiansl127/nifi-spark-bundle](https://github.com/qiansl127/nifi-spark-bundle) - Customized Spark processor on NiFi
-* [richards-tech/RTNiFiStreamProcessors](https://github.com/richards-tech/RTNiFiStreamProcessors) - IoT MQTT sensor stream capture for Apache NiFi
-* [MDL/nifi-rabbitmq-bundle](https://github.com/MDL/nifi-rabbitmq-bundle) - NiFi Rabbit MQ bundle
-* [xmlking/nifi-websocket](https://github.com/xmlking/nifi-websocket) - Apache NiFi WebSocket Listener
-* [ryanleary/nifi-redis](https://github.com/ryanleary/nifi-redis) - NiFi Processors for pulling from Redis
-* [jdye64/nifi-gpiorest](https://github.com/jdye64/nifi-gpiorest) - NiFi processor example for controlling REST based GPIO device like a Raspberry PI
-* [aperepel/nifi-mqtt-bundle](https://github.com/aperepel/nifi-mqtt-bundle) - A generic support for NiFi interfacing with MQTT brokers
-* [jfrazee/nifi-kinesis](https://github.com/jfrazee/nifi-kinesis) - Kinesis processor for Apache NiFi
-* [joaohf/nifi-radius](https://github.com/joaohf/nifi-radius) - Apache NiFi process to Radius logs
-* [jdye64/nifi-openalpr](https://github.com/jdye64/nifi-openalpr) - NiFi integration for OpenALPR
-* [qntfy/nifi-redis](https://github.com/qntfy/nifi-redis) - NiFi Processors for handling data in Redis
-* [jahhulbert-ccri/geomesa-nifi](https://github.com/jahhulbert-ccri/geomesa-nifi) - NiFi GeoMesa ingest processor
-* [markap14/nifi-nosql-bundle](https://github.com/markap14/nifi-nosql-bundle) - NiFi NoSQL processors (MongoDB, Accumulo)
-* [simonellistonball/nifi-OpenCV](https://github.com/simonellistonball/nifi-OpenCV) - Open CV based processors for NiFi
-* [simonellistonball/nifi-AccumuloGraph](https://github.com/simonellistonball/nifi-AccumuloGraph) - NiFi processors for AccumuloGraph
-* [helicopterman22/nifi\_amqp_processors](https://github.com/helicopterman22/nifi_amqp_processors) - A set of processors for sending and retrieving messages from an AMQP broker
-* [bbukacek/nifi-hadoop-libraries-bundle](https://github.com/bbukacek/nifi-hadoop-libraries-bundle) - NiFi Hadoop Library for MapR
-* [apiri/nifi-delegated-authorization-bundle](https://github.com/apiri/nifi-delegated-authorization-bundle) - A sample implementation of NiFi extensions working in concert to provide a delegated authorization approach in handling data on a per event basis
-* [uwegeercken/nifi_processors](https://github.com/uwegeercken/nifi_processors) - Includes an Apache Velocity template processor
-* [acesir/nifi-ConvertJSONtoCSV-bundle](https://github.com/acesir/nifi-ConvertJSONtoCSV-bundle) - Convert multi nested JSON files into denormalized, flattened out version of the CSV
-* [acesir/nifi-ParseCSV-bundle](https://github.com/acesir/nifi-ParseCSV-bundle) - CSV parsing with masking, encryption and tokenization
-* [withersdb/ALTER-nifi-putgeowave](https://github.com/withersdb/ALTER-nifi-putgeowave) - A NiFi processor that writes data to GeoWave
-* [jdye64/nifi-addons](https://github.com/jdye64/nifi-addons) - Additional convenience processors not found in core Apache NiFi (OpenCV, Salesforce, Sphinx, Tesseract)
-* [apsaltis/nifi-soap](https://github.com/apsaltis/nifi-soap) - NiFi SOAP processor
-* [jfrazee/nifi-provenance-reporting-bundle](https://github.com/jfrazee/nifi-provenance-reporting-bundle) - NiFi provenance reporting tasks
-* [KayLerch/apache-nifi-voiceops-skill](https://github.com/KayLerch/apache-nifi-voiceops-skill) - An Alexa skill which can be used to voice-control an Apache NiFi dataflow
-* [imaifactory/nifi-processors](https://github.com/imaifactory/nifi-processors) - Includes processors for converting from regex named groups and LTSV to JSON
-* [selim-namsi/NifiGroKProcessor](https://github.com/selim-namsi/NifiGroKProcessor) - Grok processor
-* [DhruvKumar/nifi-grok-processor-bundle](https://github.com/DhruvKumar/nifi-grok-processor-bundle) - NiFi processor which can parse using Grok like expressions
-* [DoxoLogic/nifi-generate-content](https://github.com/DoxoLogic/nifi-generate-content) - Apache nifi processor for creating a new FlowFile content based on property value
-* [weaverplatform/weaver-nifi](https://github.com/weaverplatform/weaver-nifi) - Processor implementations for the Apache NiFi platform for connecting to the Weaver Platform
-* [kineticadb/kinetica-connector-nifi](kineticadb/kinetica-connector-nifi) - GPUdb NiFi Connector
-* [aperepel/nifi-csv-bundle](https://github.com/aperepel/nifi-csv-bundle) - CSV processors
-* [minyk/nifi-headlessbrowser-processor](https://github.com/minyk/nifi-headlessbrowser-processor) - Returns the page source in its current state to FlowFile, including any DOM updates that occurred after page load
-* [PromonLogicalis/nifi-spoofing-bundle](https://github.com/PromonLogicalis/nifi-spoofing-bundle) - NiFi bundle for IP spoofing
-* [mmiklavc/scalable-ocr](https://github.com/mmiklavc/scalable-ocr) - Scalable OCR with Apache NiFi and Tesseract
-* [openenergi/nifi-azure-datalake](https://github.com/openenergi/nifi-azure-datalake) - A processor to store NiFi flowfiles in Azure Data Lake
-* [simonellistonball/PiWiNiFi](https://github.com/simonellistonball/PiWiNiFi) - A NiFi demo for collecting wifi data from conferences
-* [simonellistonball/nifi-ml-bundle](https://github.com/simonellistonball/nifi-ml-bundle) - A bundle for basic scoring machine learning models in NiFi (PMML).
-* [simonellistonball/nifi-audio-bundle](https://github.com/simonellistonball/nifi-audio-bundle) - Various audio related processors for NiFi
-* [pinkdevelops/nifi-googlegeocode-bundle](https://github.com/pinkdevelops/nifi-googlegeocode-bundle) - FlowFile enrichment using google geocode service
-* [jonathantelfer/nifi-neo4j](https://github.com/jonathantelfer/nifi-neo4j) - Bundle to add data into Neo4J graph databases
-* [compose-ex/nifi-compose-bundle](https://github.com/compose-ex/nifi-compose-bundle) - Mongo streaming and RocksDB processors
-* [sysunite/sysunite-nifi](https://github.com/sysunite/sysunite-nifi) - Generic Sysunite processors
-* [BatchIQ/nifi-file-identity-provider-bundle](https://github.com/BatchIQ/nifi-file-identity-provider-bundle) - Identity Provider for Apache NiFi, allowing username/password authentication backed by a local file store
-* [mrcsparker/nifi-edireader-bundle](https://github.com/mrcsparker/nifi-edireader-bundle) - Apache NIFI processor that converts EDI ASC X12 and EDIFACT documents into XML
-* [mrcsparker/nifi-r-bundle](https://github.com/mrcsparker/nifi-r-bundle) - R Processor for NIFI
-* [pagefault3228/nifi-processor-CheckDiskUsage](https://github.com/pagefault3228/nifi-processor-CheckDiskUsage) - NiFi processor that can monitor flowfile and content repository usage and enable back pressure when limits exceeded
-* [pagefault3228/nifi-reportingtask-NagiosNRDPReporter](https://github.com/pagefault3228/nifi-reportingtask-NagiosNRDPReporter) - NiFi Reporting Task that reports NiFi metrics to Nagios via NRDP
-* [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
-* [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
-* [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
 
 ## Deployment
 
