@@ -80,6 +80,7 @@
 * [Clojure on Apache NiFi](https://bigsolutions.io/2017/01/03/clojure-on-apache-nifi/)
 * [Flow-Based Programming for Trading Systems](https://aasharsite.wordpress.com/2016/12/29/flow-based-programming-for-trading-systems/)
 * [Stream data into Hive ORC on CDH 5.8.3 with Nifi](https://www.dbiq.nl/nifi-puthivestreaming-with-cdh/)
+* [Sentiment Analysis of Tweets using Apache NiFi](https://github.com/NandakumarSG/nifi-twitter-sentiment-analysis)
 
 ### Slides
 
