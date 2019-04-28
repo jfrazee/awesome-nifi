@@ -164,6 +164,7 @@
 * [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
 * [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
 * [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
+* [javajefe/nifi-redis-pubsub-bundle](https://github.com/javajefe/nifi-redis-pubsub-bundle) - NiFi processor emulating queue/topic patterns on top of Redis
 
 ## Deployment
 
