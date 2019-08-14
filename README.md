@@ -164,6 +164,7 @@
 * [pinkdevelops/nifi-accumulo-service](https://github.com/pinkdevelops/nifi-accumulo-service) - Apache NiFi Controller Service for connecting to Apache Accumulo 1.7.0
 * [mring33621/nats-messaging-for-nifi](https://github.com/mring33621/nats-messaging-for-nifi) - NATS messaging processors for Apache Nifi
 * [aashar/NiFi4Trading](https://github.com/aashar/NiFi4Trading) - NiFi Bundle for FIX Protocol
+* [dstl/nifi-processors](https://github.com/dstl/nifi-processors) - NiFi processors developed by Dstl, including processors for Machine Translation and OCR
 
 ## Deployment
 
