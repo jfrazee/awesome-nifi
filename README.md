@@ -17,6 +17,7 @@
     - [Configuration Management](#configuration-management)
     - [Packages](#packages)
     - [Dockerfiles](#dockerfiles)
+    - [Kubernetes](#kubernetes)
     - [Vagrantfiles](#vagrantfiles)
 - [Misc](#misc)
 - [License](#license)
@@ -206,6 +207,10 @@
 * [mkobit/docker-nifi](https://github.com/mkobit/docker-nifi)
 * [aperepel/docker-nifi](https://github.com/aperepel/docker-nifi)
 * [ijokarumawak/docker-compose-nifi-cluster](https://github.com/ijokarumawak/docker-compose-nifi-cluster)
+
+### Kubernetes
+
+* [cetic/helm-nifi](https://github.com/cetic/helm-nifi) - Helm Chart to deploy Apache Nifi on a Kubernetes cluster 
 
 ### Vagrantfiles
 
