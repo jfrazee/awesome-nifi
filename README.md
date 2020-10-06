@@ -95,6 +95,7 @@
 
 ### Videos
 
+* [NiFi Crash Course (by Andy LoPresto, Hortonworks)](https://www.youtube.com/watch?v=fblkgr1PJ0o&ab_channel=InfoQ) - Very good overview of NiFi, good speaker, with live session in which a data flow is built
 * [OSCON 2015 : Beyond messaging - Enterprise Dataflow with Apache NiFi](https://www.youtube.com/watch?v=sQCgtCoZyFQ)
 * [Hortonworks DataFlow powered by Apache NiFi](https://www.youtube.com/watch?v=fO-xOrWBZJU)
 * [How to navigate and build a dataflow in Apache Nifi](https://www.youtube.com/watch?v=FgTGAWLC170)
